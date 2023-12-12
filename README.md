@@ -26,7 +26,7 @@ effectuer les commandes suivantes :
 ```
 chmod -R 777 data
 
-docker-compose up -d
+docker compose up -d
 ```
 ## Les quetions de l'exercices sont :
 
