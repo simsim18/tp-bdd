@@ -17,7 +17,7 @@ Ce projet utilise le moteur docker. Si vous avez un OS en mode graphique vous po
     Vous pouvez utiliser le script 'docker.sh' qui se trouve à la racine du projet. Il faut juste lancer les commandes suivantes :
 	```
     chmod +x docker.sh && ./docker.sh
-    	```
+    ```
     Sinon vous pouvez suivre les instructions sur le site de docker : https://docs.docker.com/engine/install/
 
 ### Mise en place du LAMP
